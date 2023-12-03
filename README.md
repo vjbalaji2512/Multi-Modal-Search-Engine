@@ -1,4 +1,3 @@
-# Multi-Modal-Search-Engine
 # Multimodal Search
 Multimodal Search Engine
 
